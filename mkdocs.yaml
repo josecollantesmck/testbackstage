@@ -1,0 +1,7 @@
+site_name: 'Test Documentation'
+
+nav:
+  - Example: example.md
+
+plugins:
+  - techdocs-core
