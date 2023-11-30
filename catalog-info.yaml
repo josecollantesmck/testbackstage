@@ -4,7 +4,7 @@ metadata:
   name: test_documentation
   description: 'Documentation for test'
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/josecollantesmck/testbackstage
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
